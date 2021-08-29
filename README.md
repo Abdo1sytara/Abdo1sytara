@@ -8,23 +8,27 @@
 Abdo1sytara/Abdo1sytara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-pkg update
 
-pkg upgrade
 
-pkg install python
+pkg update && pkg upgrade
 
 pkg install python2
 
 pkg install git
 
+pip2 install--upgrade pip
+
+pip2 install requests
+
+pip2 install metchanize
+
 git clone https://github.com/Abdo1sytara/Abdo1sytara
 
-cd hacking-facebook
+cd darkfb
 
-chmod +x hack-facebook.py
+chmod +x*
 
-pip2 install mechaniz
+python2 rip. py
 
-python2 hack-facebook.py
+
 
